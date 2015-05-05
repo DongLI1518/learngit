@@ -9,4 +9,5 @@ Git is a distributed version control system.\
 *********\
 ++++++\
 \'97\'97\'97\
+%%%%%%\
 Git is free software.}
